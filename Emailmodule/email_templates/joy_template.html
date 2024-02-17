@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .container {
+        background: rgb(238,174,202);
+        background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+        color: black;
+        padding-bottom: 10px;
+        padding-left: 5px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Acknowledging Your Satisfaction and Elevating Your Positive Experience</h1>
+      </header>
+
+      <main>
+        <p>{{ greeting }}</p>
+        <p>We trust this email finds you well and enjoying the benefits of our product. Your satisfaction is our utmost priority, and we are delighted to hear that you are pleased with your experience.
+          <br />
+          Your positive feedback energizes our team, and we sincerely appreciate you taking the time to share your satisfaction. It's customers like you that motivate us to continue delivering exceptional products and services.
+          <br />
+          Once again, thank you for choosing {{ sender_name }}. We look forward to serving you in the future and exceeding your expectations.</p>
+        <p>Best regards, <br />{{ sender_name }}</p>
+      </main>
+
+      <footer>
+        <i>This email was sent from Czech Unified Solutions...</i>.
+      </footer>
+    </div>
+  </body>
+</html>

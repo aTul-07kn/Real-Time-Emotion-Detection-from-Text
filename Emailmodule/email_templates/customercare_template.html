@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .container {
+        /* background: rgb(238,174,202);
+        background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
+        color: black;
+        padding-bottom: 10px;
+        padding-left: 5px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Attention : Customer need assistance!!</h1>
+      </header>
+
+      <main>
+        <p>{{ greeting }}</p>
+        <p>It has come to my notice that one of our valued customers, {{customer_name}}, has expressed dissatisfaction with their recent experience with our products.
+          <br />
+          I kindly request your immediate attention to this matter. Please reach out to {{customer_name}} at {{customer_email}} and listen to their concerns. If there are specific issues or challenges they have encountered, please make every effort to address and resolve them promptly.
+          <br />
+          Thank you for your prompt attention to this matter. I am confident that, with your assistance, we can turn this situation around and ensure that {{customer_name}} remains a satisfied and loyal customer.
+        </p>
+        <p>Best regards, <br />{{ sender_name }}</p>
+      </main>
+
+      <footer>
+        <i>This email was sent from Czech Unified Solutions...</i>.
+      </footer>
+    </div>
+  </body>
+</html>

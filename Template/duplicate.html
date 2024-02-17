@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oops! Something Went Wrong</title>
+    <style>
+        .linear-text-gradient {
+            background: linear-gradient(to top, #6A82FB, #FC5C7D);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        body {
+            background: #FC5C7D;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            color: #555353;
+        }
+
+        .container {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.615); /* White background with transparency */
+            height: auto;
+            width: 400px;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 15px 20px;
+            box-shadow: 15px 10px 15px rgba(0, 0, 0, 0.5); /* Box shadow for a subtle effect */
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: bolder;
+            color: #FF0000; /* Red color for failure message */
+        }
+
+        p {
+            font-size: 15px;
+        }
+
+        .footer {
+            margin-top: 20px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="linear-text-gradient">Sorry!</h1>
+        <p>Seems like we have already received your feedback, we are onto it :)</p>
+        <div class="footer">
+            <p>Contact support if the issue persists</p>
+            <i>cezchsolutions@gmail.com</i>
+        </div>
+    </div>
+</body>
+</html>
