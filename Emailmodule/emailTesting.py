@@ -20,7 +20,7 @@ def send_email(name, receiver_email, emotion):
         template_path = os.path.join(script_directory, "email_templates", "joy_template.html")
         subject="Acknowledging Your Satisfaction and Elevating Your Positive Experience"
 
-    elif emotion=='sadness' or emotion=='ager' or emotion=='fear':
+    elif emotion=='sadness' or emotion=='anger' or emotion=='fear':
         cust_care_email=random.choice(executive_details)
         # Construct the path to the unhappy email template within the Emailmodule folder
         template_path = os.path.join(script_directory, "email_templates", "unhappy_template.html")
