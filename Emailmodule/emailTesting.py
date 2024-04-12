@@ -1,4 +1,3 @@
-# First let's get jinja2
 from jinja2 import Template
 import os
 import random
@@ -15,12 +14,12 @@ def send_email(name, receiver_email, emotion):
     # Get the absolute path to the directory of this script
     script_directory = os.path.dirname(os.path.realpath(__file__))
     
-    if emotion=="joy":
-        # Construct the path to the joy email template within the Emailmodule folder
+    if emotion=="Happy":
+        # Construct the path to the Happy email template within the Emailmodule folder
         template_path = os.path.join(script_directory, "email_templates", "joy_template.html")
         subject="Acknowledging Your Satisfaction and Elevating Your Positive Experience"
 
-    elif emotion=='sadness' or emotion=='anger' or emotion=='fear':
+    elif emotion=='Sad' or emotion=='Angry' or emotion=='Disgusted':
         cust_care_email=random.choice(executive_details)
         # Construct the path to the unhappy email template within the Emailmodule folder
         template_path = os.path.join(script_directory, "email_templates", "unhappy_template.html")
@@ -53,7 +52,7 @@ def send_email(name, receiver_email, emotion):
     server.login(sender_email, sender_password)
 
     # Create email content using Jinja2 template
-    if emotion=='sadness' or emotion=='ager' or emotion=='fear':
+    if emotion=='Sad' or emotion=='Angry' or emotion=='Disgusted':
         # --------------------------------------SENDING MAIL TO CUSTOMER--------------------------------------------------
         email_data = {
             "greeting": f"Hello {name}!",
@@ -131,5 +130,5 @@ if __name__=="__main__":
     # sample
     name='Atul Kumar Nayak'
     receiver_email="atulnayak7869@gmail.com"
-    emotion="sadness"
+    emotion="Sad"
     send_email(name,receiver_email,emotion)

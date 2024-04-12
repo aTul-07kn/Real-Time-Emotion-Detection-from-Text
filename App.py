@@ -77,6 +77,7 @@ def submit():
             #thankyou page--load after submitting the form
             return redirect(url_for('response'))
         except Exception as e:
+            print("duplicate order EXCEPTION")
             return render_template("duplicate.html")  #if the user again tries to give feedback, then render the duplicate feedback template
     
 #saved model is for 50 epochs
