@@ -5,7 +5,7 @@ Project By-
 * G. Kausthub Rao [GitHub](https://github.com/KausthubProjectSpace)
 * K. Midhilesh [GitHub](https://github.com/Midhilesh13)
   
-Note: ***Change the branch to master for execution files.***
+Note: ***Change the branch to [master](https://github.com/aTul-07kn/Real-Time-Emotion-Detection-from-Text/tree/master) for execution files.***
 
 Objectives completed:
 1) Front End - created a simple webpage to take information from the user which includes name, age, location, gender, orderId and feedback for further processing.
