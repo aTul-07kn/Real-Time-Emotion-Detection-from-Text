@@ -57,3 +57,19 @@ This project involves the development of an innovative system for emotion recogn
     -This will open the managers portal on a live server at localhost:3000.
 
 6. To close the servers press ***ctrl+c*** in each terminal.
+
+##Screenshots
+1. Feedback Form
+![Screenshot 1](Project Execution Photos/Feedback form.jpeg)
+
+2. Managers Portal
+![Screenshot 2](Project Execution Photos/Managers Portal.jpeg)
+
+3. Owner's Dashboard
+![Screenshot 3](Project Execution Photos/Owners Dashboard.jpeg)
+
+4. Mail to Customer
+![Screenshot 4](Project Execution Photos/Email to customer for negative feedback.jpeg)
+
+5. Mail to Customer Executive
+![Screenshot 4](Project Execution Photos/Email to customer executive.jpeg)
