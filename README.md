@@ -60,16 +60,16 @@ This project involves the development of an innovative system for emotion recogn
 
 ## Screenshots
 1. Feedback Form
-![Screenshot 1](Project Execution Photos/Feedback form.jpeg)
+![Feedback Form](Project Execution Photos/Feedback form.jpeg)
 
 2. Managers Portal
-![Screenshot 2](Project Execution Photos/Managers Portal.jpeg)
+![Managers Portal](Project Execution Photos/Managers Portal.jpeg)
 
 3. Owner's Dashboard
-![Screenshot 3](Project Execution Photos/Owners Dashboard.jpeg)
+![Owner's Dashboard](Project Execution Photos/Owners Dashboard.jpeg)
 
 4. Mail to Customer
-![Screenshot 4](Project Execution Photos/Email to customer for negative feedback.jpeg)
+![Mail to Customer](Project Execution Photos/Email to customer for negative feedback.jpeg)
 
 5. Mail to Customer Executive
-![Screenshot 4](Project Execution Photos/Email to customer executive.jpeg)
+![Mail to Customer Executive](Project Execution Photos/Email to customer executive.jpeg)
