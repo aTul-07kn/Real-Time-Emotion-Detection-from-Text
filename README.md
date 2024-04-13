@@ -21,7 +21,7 @@ This project involves the development of an innovative system for emotion recogn
 9. smtp Library
 10. Streamlit Library
 11. Glove Word Embeddings
-12. Database(MYSQL)
+12. XAMPP - MYSQL Database
 13. Flask-MySQLdb
 14. Autocorrect
 ## Installations
