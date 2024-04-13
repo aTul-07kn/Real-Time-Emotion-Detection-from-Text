@@ -1,5 +1,5 @@
 
-# Project Name: Real Time Emotion Recognition from text using Deep learning and Feedback Analysis.
+# Real Time Emotion Recognition from text using Deep learning and Feedback Analysis
 
 
 
