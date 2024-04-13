@@ -1,10 +1,11 @@
 # Real-Time-Emotion-Detection-from-Text
 Project By-
-Atul Kumar Nayak,
-A Rohan,
-G Kausthub Rao
-
-***Change the branch to "master" for all the codes.***
+* Atul Kumar Nayak [GitHub](https://github.com/aTul-07kn)
+* A. Rohan [GitHub](https://github.com/rohu2504)
+* G. Kausthub Rao [GitHub](https://github.com/KausthubProjectSpace)
+* K. Midhilesh [GitHub](https://github.com)
+  
+Note: ***Change the branch to **master** for execution files.***
 
 Objectives completed:
 1) Front End - created a simple webpage to take information from the user which includes name, age, location, gender, orderId and feedback for further processing.
