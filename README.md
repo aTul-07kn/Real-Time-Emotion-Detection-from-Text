@@ -58,7 +58,7 @@ This project involves the development of an innovative system for emotion recogn
 
 6. To close the servers press ***ctrl+c*** in each terminal.
 
-##Screenshots
+## Screenshots
 1. Feedback Form
 ![Screenshot 1](Project Execution Photos/Feedback form.jpeg)
 
