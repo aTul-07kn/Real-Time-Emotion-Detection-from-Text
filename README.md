@@ -84,4 +84,4 @@ This project involves the development of an innovative system for emotion recogn
 * Atul Kumar Nayak [GitHub](https://github.com/aTul-07kn)
 * A. Rohan [GitHub](https://github.com/rohu2504)
 * G. Kausthub Rao [GitHub](https://github.com/KausthubProjectSpace)
-* K. Midhilesh [GitHub](https://github.com)
+* K. Midhilesh [GitHub](https://github.com/Midhilesh13)
