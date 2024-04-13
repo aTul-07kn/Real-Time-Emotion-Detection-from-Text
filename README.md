@@ -45,12 +45,14 @@ This project involves the development of an innovative system for emotion recogn
     * This will start the server and you can access the feedback form through the provided URL at localhost:5000.
 4. To access the **Owner's Dashboard** open a new terminal:
 
-    * Change the directory using the command ***cd Dashboard***
+    * Change the directory using the command [cd Dashboard](https://github.com/aTul-07kn/Real-Time-Emotion-Detection-from-Text/tree/master/Dashboard)
     
     * Run the *dashboard.py* script using the command ***streamlit run dashboard.py***
 
     * This will start the Streamlit server in your default web browser at localhost:8501.
 5. To access the **Manager's Portal** open a new terminal:
+
+    * Change the directory using the command [cd emaildashboard](https://github.com/aTul-07kn/Real-Time-Emotion-Detection-from-Text/tree/master/emaildashboard)
 
     * Run the *email_dashboard.py* script using the command ***python email_dashboard.py***
 
