@@ -79,6 +79,8 @@ This project involves the development of an innovative system for emotion recogn
 
 [![Email-to-customer-executive.jpg](https://i.postimg.cc/t4kL2pTg/Email-to-customer-executive.jpg)](https://postimg.cc/PCL3qG1G)
 
+*To see all the execution photos open **Project Execution Photos** directory*
+
 ## Credits
 
 * Atul Kumar Nayak [GitHub](https://github.com/aTul-07kn)
