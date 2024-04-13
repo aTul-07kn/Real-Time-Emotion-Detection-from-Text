@@ -30,9 +30,9 @@ This project involves the development of an innovative system for emotion recogn
 2. Install the required software dependencies listed in the "Software Requirements" section.
 3. Open the MySQL server in XAMPP and create a database named *customer*. 
     
-    -Create a *customer_info* table with fields name, email, age, gender, location, order_id(primary key), product_name, feedback and emotion.
+    * Create a *customer_info* table with fields name, email, age, gender, location, order_id(primary key), product_name, feedback and emotion.
 
-    -Create a *orders_table* table with fields order_id(primary key), product_name, cust_name.
+    * Create a *orders_table* table with fields order_id(primary key), product_name, cust_name.
 3. Set up the development environment on your development machine.
 ## Usage
 
@@ -40,21 +40,21 @@ This project involves the development of an innovative system for emotion recogn
 2. Navigate to the project directory on your development machine.
 3. To start the **Feedback Form** in the live server:
 
-    -Run the *App_new.py* script using the command ***python App_new.py***
+    * Run the *App_new.py* script using the command ***python App_new.py***
     
-    -This will start the server and you can access the feedback form through the provided URL at localhost:5000.
+    * This will start the server and you can access the feedback form through the provided URL at localhost:5000.
 4. To access the **Owner's Dashboard** open a new terminal:
 
-    -Change the directory using the command ***cd Dashboard***
+    * Change the directory using the command ***cd Dashboard***
     
-    -Run the *dashboard.py* script using the command ***streamlit run dashboard.py***
+    * Run the *dashboard.py* script using the command ***streamlit run dashboard.py***
 
-    -This will start the Streamlit server in your default web browser at localhost:8501.
+    * This will start the Streamlit server in your default web browser at localhost:8501.
 5. To access the **Manager's Portal** open a new terminal:
 
-    -Run the *email_dashboard.py* script using the command ***python email_dashboard.py***
+    * Run the *email_dashboard.py* script using the command ***python email_dashboard.py***
 
-    -This will open the managers portal on a live server at localhost:3000.
+    * This will open the managers portal on a live server at localhost:3000.
 
 6. To close the servers press ***ctrl+c*** in each terminal.
 
@@ -78,3 +78,10 @@ This project involves the development of an innovative system for emotion recogn
 5. Mail to Customer Executive
 
 [![Email-to-customer-executive.jpg](https://i.postimg.cc/t4kL2pTg/Email-to-customer-executive.jpg)](https://postimg.cc/PCL3qG1G)
+
+## Credits
+
+* Atul Kumar Nayak [GitHub](https://github.com/aTul-07kn)
+* A. Rohan [GitHub](https://github.com/rohu2504)
+* G. Kausthub Rao [GitHub](https://github.com/KausthubProjectSpace)
+* K. Midhilesh [GitHub](https://github.com)
