@@ -11,5 +11,4 @@ The current(main) branch consists of all the related project documentation. We h
 
 Our project's main focus is to build a best-use case product by utilizing emotion recognition from text. The main targeted segment of our project is the business owners. Business owners can understand the emotions of their customers on different products. They can visualize their data which helps them to make quick real-time decisions to improve their business. They can provide prompt(quick) customer support which helps them avoid losing their valuable customers and helps in making a good impression.      
 
-To understand more about our project and its flow please refer to the below video:-
-https://drive.google.com/file/d/1uj6K0J6krWBmYUUKhCSD40tQa7vDX9eg/view?usp=sharing
+To understand more about our project and its flow please refer the [video](https://drive.google.com/file/d/1uj6K0J6krWBmYUUKhCSD40tQa7vDX9eg/view?usp=sharing).
