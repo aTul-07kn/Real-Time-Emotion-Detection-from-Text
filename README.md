@@ -1,4 +1,4 @@
-# Real-Time-Emotion-Detection-from-Text
+# Real Time Emotion Recognition from Text using deep learning and feedback analysis
 Project By-
 * Atul Kumar Nayak [GitHub](https://github.com/aTul-07kn)
 * A. Rohan [GitHub](https://github.com/rohu2504)
