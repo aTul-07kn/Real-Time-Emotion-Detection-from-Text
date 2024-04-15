@@ -71,7 +71,7 @@ This project involves the development of an innovative system for emotion recogn
 
 3. Owner's Dashboard
 
-[![Owners-Dashboard.jpg](https://i.postimg.cc/3Jmhjsmy/Owners-Dashboard.jpg)](https://postimg.cc/yk12srfB)
+[![Owners-Dashboard.png](https://i.postimg.cc/FRf0tkXZ/Owners-Dashboard.png)](https://postimg.cc/1nQ8wttn)
 
 4. Mail to Customer
 
